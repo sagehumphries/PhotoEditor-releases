@@ -4,11 +4,11 @@
         <title>Humphries Ortho Photo Editor</title>
         <item>
             <title>1.1</title>
-            <pubDate>Fri, 13 Nov 2026 10:39:44 -0800</pubDate>
+            <pubDate>Fri, 13 Nov 2026 10:51:02 -0800</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sagehumphries/PhotoEditor-releases/releases/download/v1.1/PhotoEditor-1.1.zip" length="1603940" type="application/octet-stream" sparkle:edSignature="9y3dW7Ma2yXXvOF8vVGAxVhXs4OOtP1FHckwC1JnwRd3RVW1yDu3LuW81ptNHJpqRDRyJTladNFhBySLyyjlCQ=="/>
+            <enclosure url="https://github.com/sagehumphries/PhotoEditor-releases/releases/download/v1.1/PhotoEditor-1.1.zip" length="1603939" type="application/octet-stream" sparkle:edSignature="q9et3nttuALD9NgLdmW50w6QCqDBgNUFk4NSdltawMRDBq1CJ0gWXJLnlsscrkCU8RFSvDy8MJ243DkYTb98Dw=="/>
         </item>
     </channel>
 </rss>
